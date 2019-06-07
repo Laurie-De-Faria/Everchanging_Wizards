@@ -6,7 +6,7 @@ A battle between two wizards ! Use transformation to send different spell and be
 
 Platforms: MS Windows
 Tools and Technologies: Unity (any product)
-Installation Instructions: Clone or download repository, extract file "Everchanging Wizards.rar" and open the executable "Everchanging Wizards.exe".
+Installation Instructions: Clone or download repository, extract file "Everchanging Wizards.rar" and open the executable "Everchanging Wizards !".
 
 Crédits :</br>
 
